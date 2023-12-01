@@ -9,8 +9,7 @@ The following is an example of a successful and launch.
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing_1.gif)
 
 Several examples of an unsuccessful landing are shown here:
-
-![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/crash.gif)
+![Image](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/crash.gif)
 
 # Lab 1: Collecting the data [Link](https://github.com/jesushidalgosanchez/IBM-Applied-Data-Science-Capstone/blob/main/01.-jupyter-labs-spacex-data-collection-api.ipynb)
 
